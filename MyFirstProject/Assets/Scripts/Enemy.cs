@@ -2,20 +2,17 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerScript : MonoBehaviour
+public class Enemy : MonoBehaviour
 {
-
-    // This is a added documentation to see if the feature branch is ready to be continued on
     // Start is called before the first frame update
     void Start()
     {
-
-        Debug.Log("Game Started");
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        
     }
 }
